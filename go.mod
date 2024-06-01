@@ -57,6 +57,7 @@ require (
 	github.com/segmentio/asm v1.2.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.1.6 // indirect
+	github.com/withfig/autocomplete-tools/integrations/cobra v1.2.1 // indirect
 	github.com/zeebo/errs v1.3.0 // indirect
 	go.mongodb.org/mongo-driver v1.12.1 // indirect
 	go.opentelemetry.io/otel/metric v1.23.1 // indirect
